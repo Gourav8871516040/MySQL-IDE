@@ -1,14 +1,28 @@
 # MySQL-IDE
 It is a Java desktop application which provide a GUI interface to the MySQL community server. User can access the whole MySQL community server without remembering any query. 
 
+## Application Screenshots :-
+
+### 1. User Registration :
+
+New user register here to create username and password to access the applicatoion.
+
 ![](img/1.png)
 
+
+### 2. User Login :
+
+Afetr registration user will login from login window to access the application. 
 
 ![](img/2.png)
 
 
 ![](img/3.png)
 
+
+### 1. User Registration :
+
+New user register here to create username and password to access the applicatoion.
 
 ![](img/4.png)
 

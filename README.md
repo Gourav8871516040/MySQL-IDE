@@ -74,6 +74,8 @@ User can easily change the structure of the table using this window.
 ![](img/12.png)
 
 
-![](img/13.png)
+### 10. Delete Column :
 
+
+![](img/13.png)
 

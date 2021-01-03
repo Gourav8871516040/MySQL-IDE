@@ -43,17 +43,33 @@ Using this window, user can creates database tables.
 ![](img/7.png)
 
 
+### 6. Delete Data :
+
+User can delete the database data by select the row and click on delete button. User can also delete the data by entering condition.
+
 ![](img/8.png)
 
 
 ![](img/9.png)
 
 
+### 7. Update Data :
+
+Using this window user can update the data.
+
 ![](img/10.png)
 
 
+### 8. Add Column :
+
+From this screen user add column in the database table.
+
 ![](img/11.png)
 
+
+### 9. Modify Table :
+
+User can easily change the structure of the table using this window.
 
 ![](img/12.png)
 
